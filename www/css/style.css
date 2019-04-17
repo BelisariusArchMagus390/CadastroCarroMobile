@@ -1,0 +1,42 @@
+#formulario{
+  border: 2px solid orange;
+  border-radius: 10px;
+  background: white;
+  margin-left: 10.5%;
+  margin-right: 10%;
+  background: orange;
+  float: left;
+  padding: 30px;
+  width: 80%;
+}
+
+#btnCadastrar{
+  width: 80%;
+  height: 50px;
+  color: black;
+}
+
+.container{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#spaceBtn, h2, html, body{
+  background: black;
+}
+
+button{
+  background: orange;
+}
+
+#boxTitle{
+  margin-bottom: -10px;
+  color: white; 
+}
+
+#lbResult{
+  font-size: 10px;
+  background: white;
+  width: 35%;
+  padding: 5px;
+}
